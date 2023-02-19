@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "firstName": "Neerma",
+      "lastName": "Auchoybur",
+      "address": "1 street name, Ebene",
+      "email": "admin1@gmail.com",
+      "password":"12345",
+      "contactNumber": "+230 5777 6661"
+    },
+    {
+        "id": "2",
+        "firstName": "Audrey",
+        "lastName": "Hack",
+        "address": "2 street name, Fond du sac",
+        "email": "admin2@gmail.com",
+        "password":"12345",
+        "contactNumber": "+230 5777 6662"
+      },
+      {
+        "id": "3",
+        "firstName": "Adam",
+        "lastName": "Sandler",
+        "address": "3 street name, Goodlands",
+        "email": "admin3@gmail.com",
+        "password":"12345",
+        "contactNumber": "+230 5777 6663"
+      },
+      {
+        "id": "4",
+        "firstName": "Keanu",
+        "lastName": "Reeves",
+        "address": "4 street name, Curepipe",
+        "email": "admin4@gmail.com",
+        "password":"12345",
+        "contactNumber": "+230 5777 6664"
+      }
+  ]

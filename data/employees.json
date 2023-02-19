@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "firstName": "Ryan",
+      "lastName": "Godfred",
+      "department": "Accounting",
+      "address": "1 street name, Port-Louis",
+      "email": "ryangodfred@gmail.com",
+      "password": "12345",
+      "contactNumber": "+230 5777 6661",
+      "dateRegistered": "2022-12-25",
+      "picture":"https://www.pngmart.com/files/22/User-Avatar-Profile-Download-PNG-Isolated-Image.png"
+    },
+    {
+        "id": "2",
+        "firstName": "Melina",
+        "lastName": "Amreaux",
+        "department": "Human Resource",
+        "address": "1 street name, Curepipe",
+        "email": "melinaamreaux@gmail.com",
+        "password": "12345",
+        "contactNumber": "+230 5777 6661",
+        "dateRegistered": "2022-12-25",
+        "picture":"https://www.pngmart.com/files/22/User-Avatar-Profile-Download-PNG-Isolated-Image.png"
+    },
+    {
+        "id": "3",
+        "firstName": "Sarah",
+        "lastName": "Coeur",
+        "department": "Procurement",
+        "address": "1 street name, Rose-Hill",
+        "email": "sarahcoeur@email.com",
+        "password": "12345",
+        "contactNumber": "+230 5777 6661",
+        "dateRegistered": "2022-12-25",
+        "picture":"https://www.pngmart.com/files/22/User-Avatar-Profile-Download-PNG-Isolated-Image.png"
+    }
+]      
+    
