@@ -11,7 +11,6 @@
     "organizer": "1",
     "dateAdded": "2022-12-25",
     "picture": "https://www.ahealthiermichigan.org/wp-content/uploads/2020/05/GettyImages-86508240-scaled.jpg",
-    "interestedEmployee": ["1"],
     "registeredEmployee": ["4","1"],
     "eventLocation":""
   },
@@ -27,7 +26,6 @@
     "organizer": "2",
     "dateAdded": "2022-12-26",
     "picture": "https://www.wilton.com/on/demandware.static/-/Sites-wilton-Library/default/dwe34422b9/landing/wilton-school/decorating-101-tile.jpg",
-    "interestedEmployee": ["1"],
     "registeredEmployee": [],
     "eventLocation":""
   },
@@ -43,7 +41,6 @@
     "organizer": "3",
     "dateAdded": "2022-12-27",
     "picture": "https://images.squarespace-cdn.com/content/v1/5a9eba4a365f02a7a9aa854a/1520373843368-K4ME3554SUN6UOO7UIOD/closed-style-photo-booth.jpg",
-    "interestedEmployee": [],
     "registeredEmployee": [],
     "eventLocation":""
   },
@@ -59,7 +56,6 @@
     "organizer": "4",
     "dateAdded": "2022-12-28",
     "picture": "https://assets3.cbsnewsstatic.com/hub/i/2022/10/31/4ca61042-4a8f-4beb-88ec-d51ee140fd0c/gettyimages-1277210436.jpg",
-    "interestedEmployee": ["2"],
     "registeredEmployee": ["1","2"],
     "eventLocation":""
   },
@@ -75,7 +71,6 @@
     "organizer": "1",
     "dateAdded": "2022-12-29",
     "picture": "https://media.cntraveler.com/photos/56e2d06e2c9cfa640d949071/master/pass/Wine-Tasting-Demetrius-Fordham.jpg",
-    "interestedEmployee": ["1","2"],
     "registeredEmployee": ["4"],
     "eventLocation":""
   },
@@ -91,7 +86,6 @@
     "organizer": "2",
     "dateAdded": "2022-12-29",
     "picture": "https://images.squarespace-cdn.com/content/v1/5cfaf0f09ab8f00001d61402/1562629439754-2UVERZTLKM9813JEXIVN/EBSG-brand-photo-gradient-web-banner-v8.jpg?format=2500w",
-    "interestedEmployee": ["1","2"],
     "registeredEmployee": [],
     "eventLocation":""
   },
@@ -107,7 +101,6 @@
     "organizer": "3",
     "dateAdded": "2022-12-30",
     "picture": "https://www.parties-to-go.com/wp-content/uploads/2020/12/video-4647668_640.jpg",
-    "interestedEmployee": ["1","2"],
     "registeredEmployee": ["5"],
     "eventLocation":""
   },
@@ -119,11 +112,10 @@
     "startTime": "20:00",
     "endTime": "22:00",
     "duration": "2.00",
-    "status": "Active",
+    "status": "Close",
     "organizer": "1",
     "dateAdded": "2022-12-30",
     "picture": "https://abccentralflorida.com/wp-content/uploads/2021/02/Casino-night-Web.jpg",
-    "interestedEmployee": ["1","2","3"],
     "registeredEmployee": ["3","1"],
     "eventLocation":""
   }
